@@ -1,3 +1,7 @@
+# <a href="https://www.danilo-delbusso.me/dragonboard-410-c-ethernet-to-wifi-vpn/">[UPDATED] READ IT HERE</a>
+## ☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️☝️
+<br/>
+<hr/>
 # Dragonboard 410c Ethernet to Wi-Fi Access Point with VPN
 This set of commands and instructions are what I needed to do in order to set up a Wi-Fi access point on a Qualcomm Dragonboard 410c with a NordVPN connection.
 
